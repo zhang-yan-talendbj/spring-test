@@ -1,6 +1,33 @@
-*.class
+/.idea/*
 
-# Package Files #
+*.classpath
+*.project
+*.iml
+target/
+**.settings/
+
+**.zip
+*.bak
+.metadata/
+*.class
+*.o
+*.cproject
 *.jar
-*.war
-*.ear
+*.pst
+
+logs/
+*.log
+
+bin/
+Debug/
+
+HibernateInAction/
+tmp/
+
+DS/
+/TapestryInAction/
+*.checkstyle
+
+.externalToolBuilders/
+/com.caribe.stone.core/src/main/resources/anki.txt
+/com.caribe.stone.core/word
